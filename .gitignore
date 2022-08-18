@@ -1,11 +1,10 @@
 __pycache__
 .env
 .learn
-/src/Pets
-/ResizedCat
-/ResizedDog
-/Cat
-/Dog
+src/Pets
+ResizedCat
+ResizedDog
+Cat
+Dog
 Cat.zip
 Dog.zip
-models/net_model_catdog.h5
