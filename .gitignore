@@ -8,4 +8,4 @@ __pycache__
 /Dog
 Cat.zip
 Dog.zip
-/models
+models/net_model_catdog.h5
